@@ -1,4 +1,9 @@
 this file is an example\
 changes made remotely
+<<<<<<< HEAD
 
 changes made locallys
+=======
+abcdef
+12345
+>>>>>>> a5402cdbbef6f14ee6cbeb421fcefc3ec26b16d4
